@@ -13,5 +13,3 @@ app.include_router(auth.router)
 app.include_router(blog.router)
 app.include_router(user.router)
 
-
-# this is not supposed to work
